@@ -12,7 +12,6 @@
 		<easter offset="-1" free="true" comment="Holy Saturday">Sábado Santo</easter>
     <date day="1" month="5" free="true" comment="Labour Day">Día del Trabajo</date>
     <date day="21" month="5" free="true" comment="Navy Day">Día de las Glorias Navales</date>
-    <date day="7" month="6" free="true" comment="Battle of Arica">Asalto y Toma del Morro de Arica</date>
     <date day="21" month="6" free="true" comment="National Day of Aboriginal Peoples">Día Nacional de los Pueblos Indígenas</date>
     <date day="27" month="6" forwardto="monday" forwardwhen="tuesday wednesday thursday" rewindto="monday" rewindwhen="friday" free="true" comment="Saint Peter and Saint Paul">San Pedro y San Pablo</date>
     <date day="16" month="7" forwardto="monday" forwardwhen="tuesday wednesday thursday" rewindto="monday" rewindwhen="friday" free="true" comment="Our Lady of Mount Carmel">Virgen del Carmen</date>
